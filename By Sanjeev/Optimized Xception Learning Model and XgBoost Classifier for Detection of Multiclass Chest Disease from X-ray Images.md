@@ -2,6 +2,8 @@
 
 # Optimized Xception Learning Model and XgBoost Classifier for Detection of Multiclass Chest Disease from X-ray Images
 
+Shaheed, Kashif, et al. “Optimized Xception Learning Model and XgBoost Classifier for Detection of Multiclass Chest Disease from X-Ray Images.” Diagnostics, vol. 13, no. 15, Aug. 2023, p. 2583. PubMed Central, https://doi.org/10.3390/diagnostics13152583.
+
 ## Introduction
 - **Initial Methods**: CT scans and radiographic images were historically used for early diagnosis, aiding in the detection of normal and abnormal lung functions.
 - **Conventional CAD Systems**:
