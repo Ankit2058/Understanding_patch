@@ -1,4 +1,4 @@
-# Challenges of AI in the Medical Field
+# Challenges Faced by AI in the Medical Field
 
 ## Introduction
 Recent progress in AI has led to effective solutions for many complex tasks. However, in the medical field, there are significant challenges that hinder the advancement of AI technologies.
