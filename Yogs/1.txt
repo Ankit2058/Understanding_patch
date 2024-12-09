@@ -1,0 +1,6 @@
+"Techniques like PatchCore, which were initially developed for industrial anomaly detection, have been successfully adapted for medical applications, such as detecting diabetic retinopathy in retinal images."
+
+
+link :
+https://ar5iv.org/html/2106.08265
+https://arxiv.org/abs/2312.00529
